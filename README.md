@@ -29,3 +29,14 @@ Menu esquerdo, Produtos:
 baixar o arquivo:
 	
 	ftp://geoftp.ibge.gov.br/organizacao_territorial/localidades/Geomedia_MDB/BR_Localidades_2010_v1.mdb
+
+## Artigos:
+http://codigourbano.org/por-que-o-cep-deve-ser-tratado-como-informacao-publica/
+http://codigourbano.org/raspador-de-dados-facilita-acesso-para-consultas-ao-cep/
+
+## Respositórios interessantes:
+
+https://github.com/codigourbano/cep-scraper
+https://github.com/codigourbano/cep
+
+TODO: fazer scrap da porra toda e colocar no [DataBR](http://databr.io/)
