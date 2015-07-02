@@ -8,10 +8,12 @@ Caso você saiba de alguma informação interessante que deva ser incluída nest
 
 API Aberta e gratuita das base de dados de CEP do Brasil:
 
-	http://avisobrasil.com.br/correio-control/api-de-consulta-de-cep/
+http://avisobrasil.com.br/correio-control/api-de-consulta-de-cep/
+Thread de origem: https://groups.google.com/forum/#!topic/django-brasil/wvERTS9Bz3M
 
-	Thread de origem: https://groups.google.com/forum/#!topic/django-brasil/wvERTS9Bz3M
-
+http://www.cepaberto.com/
+http://www.republicavirtual.com.br/cep/
+http://www.qualocep.com/
 
 http://www.rais.gov.br/mun_sp.asp
 http://www.rais.gov.br/municipio.asp
@@ -33,6 +35,7 @@ baixar o arquivo:
 ## Artigos:
 http://codigourbano.org/por-que-o-cep-deve-ser-tratado-como-informacao-publica/
 http://codigourbano.org/raspador-de-dados-facilita-acesso-para-consultas-ao-cep/
+http://marlon.silvacarvalho.net/?p=446
 
 ## Respositórios interessantes:
 
