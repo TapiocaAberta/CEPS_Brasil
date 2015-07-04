@@ -34,12 +34,15 @@ baixar o arquivo:
 
 ## Artigos:
 http://codigourbano.org/por-que-o-cep-deve-ser-tratado-como-informacao-publica/
+
 http://codigourbano.org/raspador-de-dados-facilita-acesso-para-consultas-ao-cep/
+
 http://marlon.silvacarvalho.net/?p=446
 
-## Respositórios interessantes:
+## Repositórios interessantes:
 
 https://github.com/codigourbano/cep-scraper
+
 https://github.com/codigourbano/cep
 
 TODO: fazer scrap da porra toda e colocar no [DataBR](http://databr.io/)
